@@ -10,3 +10,12 @@ For regularization when [training dreambooth models](https://github.com/huggingf
 **Generation model**: runwayml/stable-diffusion-v1-5\
 **Pipeline**: StableDiffusionPipeline\
 **Pipeline args**: revision="fp16", torch_dtype=torch.float16
+
+## photo of a cat
+
+**Class prompt**: a photo of a cat\
+**Image size**: 512 x 512\
+**Num images**: 1500\
+**Generation model**: runwayml/stable-diffusion-v1-5\
+**Pipeline**: StableDiffusionPipeline\
+**Pipeline args**: revision="fp16", torch_dtype=torch.float16
