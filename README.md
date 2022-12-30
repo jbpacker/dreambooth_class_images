@@ -13,7 +13,7 @@ For regularization when [training dreambooth models](https://github.com/huggingf
 
 ## photo of a cat
 
-**Class prompt**: a photo of a cat\
+**Class prompt**: photo of a cat\
 **Image size**: 512 x 512\
 **Num images**: 1500\
 **Generation model**: runwayml/stable-diffusion-v1-5\
