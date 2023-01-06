@@ -29,3 +29,12 @@ For regularization when [training dreambooth models](https://github.com/huggingf
 **Pipeline**: StableDiffusionPipeline\
 **Pipeline args**: revision="fp16", torch_dtype=torch.float16\
 **Note:** Used for moon/mars models
+
+## photo of a landscape
+
+**Class prompt**: photo of a landscape\
+**Image size**: 512 x 512\
+**Num images**: 500\
+**Generation model**: stabilityai/stable-diffusion-2-1-base\
+**Pipeline**: StableDiffusionPipeline\
+**Pipeline args**: revision="fp16", torch_dtype=torch.float16
